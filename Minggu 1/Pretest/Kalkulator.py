@@ -47,3 +47,5 @@ while pilihan == "yes" :
         operasi=0
         print('Program Selesai')
         break
+#RIZKI NURHAFIZD ACHMAD
+#211001114
