@@ -1,7 +1,4 @@
 #Program 1
-from re import L
-from turtle import end_fill
-
 
 title="Program Penilaian Mahasiswa"
 line="-"*50
