@@ -1,6 +1,3 @@
-from matplotlib.pyplot import title
-from regex import P
-
 
 x=int(input("Nilai x: "))
 y=int(input("Nilai y: "))
